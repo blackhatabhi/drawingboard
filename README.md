@@ -3,4 +3,4 @@
 ## Setup
 - npm install 
 - node server.js
-- go to localhost:8080
+- go to localhost:3000
